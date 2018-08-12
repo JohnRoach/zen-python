@@ -1,3 +1,12 @@
 # zen-python
 Zen Python App
-Hello World
+
+
+## Setting up your environment
+
+Please make sure to install Python 3.7
+
+```
+pip3 install pipenv
+pipenv install
+```
